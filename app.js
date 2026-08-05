@@ -71,7 +71,7 @@
     });
     el.clearSearchButton.addEventListener("click", clearSearch);
     el.randomButton.addEventListener("click", randomQuestion);
-    el.exam35Button.addEventListener("click", () => startTimer(35));
+    el.exam35Button.addEventListener("click", () => startTimer(45*60));
     el.exam60Button.addEventListener("click", () => startTimer(60));
     el.stopExamButton.addEventListener("click", stopTimer);
     el.previousButton.addEventListener("click", () => move(-1));
