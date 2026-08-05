@@ -1,0 +1,1610 @@
+{
+  "meta": {
+    "title": "100以内加减乘除运算题库",
+    "description": "共100道单选题：加法25道、减法25道、乘法25道、除法25道。",
+    "version": "1.0",
+    "question_count": 100
+  },
+  "questions": [
+    {
+      "id": "MATH_001",
+      "type": "single",
+      "question": "30 + 18 = ？",
+      "options": {
+        "A": "58",
+        "B": "55",
+        "C": "47",
+        "D": "48"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "30 + 18 = 48。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_002",
+      "type": "single",
+      "question": "42 + 9 = ？",
+      "options": {
+        "A": "60",
+        "B": "42",
+        "C": "61",
+        "D": "51"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "42 + 9 = 51。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_003",
+      "type": "single",
+      "question": "30 + 6 = ？",
+      "options": {
+        "A": "26",
+        "B": "25",
+        "C": "36",
+        "D": "37"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "30 + 6 = 36。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_004",
+      "type": "single",
+      "question": "100 + 0 = ？",
+      "options": {
+        "A": "100",
+        "B": "90",
+        "C": "99",
+        "D": "95"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "100 + 0 = 100。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_005",
+      "type": "single",
+      "question": "58 + 17 = ？",
+      "options": {
+        "A": "63",
+        "B": "72",
+        "C": "75",
+        "D": "68"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "58 + 17 = 75。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_006",
+      "type": "single",
+      "question": "7 + 1 = ？",
+      "options": {
+        "A": "3",
+        "B": "8",
+        "C": "17",
+        "D": "14"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "7 + 1 = 8。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_007",
+      "type": "single",
+      "question": "15 + 75 = ？",
+      "options": {
+        "A": "87",
+        "B": "81",
+        "C": "98",
+        "D": "90"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "15 + 75 = 90。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_008",
+      "type": "single",
+      "question": "45 + 42 = ？",
+      "options": {
+        "A": "93",
+        "B": "87",
+        "C": "78",
+        "D": "80"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "45 + 42 = 87。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_009",
+      "type": "single",
+      "question": "64 + 36 = ？",
+      "options": {
+        "A": "88",
+        "B": "100",
+        "C": "92",
+        "D": "97"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "64 + 36 = 100。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_010",
+      "type": "single",
+      "question": "40 + 43 = ？",
+      "options": {
+        "A": "83",
+        "B": "85",
+        "C": "77",
+        "D": "79"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "40 + 43 = 83。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_011",
+      "type": "single",
+      "question": "64 + 6 = ？",
+      "options": {
+        "A": "70",
+        "B": "62",
+        "C": "82",
+        "D": "71"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "64 + 6 = 70。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_012",
+      "type": "single",
+      "question": "78 + 1 = ？",
+      "options": {
+        "A": "79",
+        "B": "78",
+        "C": "81",
+        "D": "86"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "78 + 1 = 79。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_013",
+      "type": "single",
+      "question": "58 + 16 = ？",
+      "options": {
+        "A": "78",
+        "B": "75",
+        "C": "74",
+        "D": "77"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "58 + 16 = 74。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_014",
+      "type": "single",
+      "question": "46 + 44 = ？",
+      "options": {
+        "A": "87",
+        "B": "96",
+        "C": "90",
+        "D": "84"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "46 + 44 = 90。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_015",
+      "type": "single",
+      "question": "85 + 4 = ？",
+      "options": {
+        "A": "83",
+        "B": "95",
+        "C": "89",
+        "D": "93"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "85 + 4 = 89。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_016",
+      "type": "single",
+      "question": "11 + 42 = ？",
+      "options": {
+        "A": "63",
+        "B": "53",
+        "C": "51",
+        "D": "43"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "11 + 42 = 53。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_017",
+      "type": "single",
+      "question": "66 + 7 = ？",
+      "options": {
+        "A": "81",
+        "B": "71",
+        "C": "80",
+        "D": "73"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "66 + 7 = 73。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_018",
+      "type": "single",
+      "question": "18 + 57 = ？",
+      "options": {
+        "A": "75",
+        "B": "65",
+        "C": "72",
+        "D": "71"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "18 + 57 = 75。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_019",
+      "type": "single",
+      "question": "60 + 24 = ？",
+      "options": {
+        "A": "92",
+        "B": "84",
+        "C": "78",
+        "D": "93"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "60 + 24 = 84。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_020",
+      "type": "single",
+      "question": "77 + 9 = ？",
+      "options": {
+        "A": "86",
+        "B": "87",
+        "C": "81",
+        "D": "90"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "77 + 9 = 86。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_021",
+      "type": "single",
+      "question": "9 + 62 = ？",
+      "options": {
+        "A": "71",
+        "B": "68",
+        "C": "65",
+        "D": "73"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "9 + 62 = 71。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_022",
+      "type": "single",
+      "question": "21 + 31 = ？",
+      "options": {
+        "A": "47",
+        "B": "52",
+        "C": "44",
+        "D": "61"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "21 + 31 = 52。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_023",
+      "type": "single",
+      "question": "20 + 28 = ？",
+      "options": {
+        "A": "49",
+        "B": "36",
+        "C": "48",
+        "D": "39"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "20 + 28 = 48。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_024",
+      "type": "single",
+      "question": "46 + 40 = ？",
+      "options": {
+        "A": "78",
+        "B": "79",
+        "C": "82",
+        "D": "86"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "46 + 40 = 86。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_025",
+      "type": "single",
+      "question": "12 + 52 = ？",
+      "options": {
+        "A": "65",
+        "B": "56",
+        "C": "64",
+        "D": "72"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "12 + 52 = 64。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_026",
+      "type": "single",
+      "question": "73 - 67 = ？",
+      "options": {
+        "A": "6",
+        "B": "9",
+        "C": "2",
+        "D": "4"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "73 - 67 = 6。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_027",
+      "type": "single",
+      "question": "81 - 55 = ？",
+      "options": {
+        "A": "34",
+        "B": "26",
+        "C": "32",
+        "D": "36"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "81 - 55 = 26。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_028",
+      "type": "single",
+      "question": "87 - 68 = ？",
+      "options": {
+        "A": "24",
+        "B": "28",
+        "C": "22",
+        "D": "19"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "87 - 68 = 19。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_029",
+      "type": "single",
+      "question": "85 - 17 = ？",
+      "options": {
+        "A": "60",
+        "B": "62",
+        "C": "79",
+        "D": "68"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "85 - 17 = 68。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_030",
+      "type": "single",
+      "question": "17 - 15 = ？",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "12",
+        "D": "2"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "17 - 15 = 2。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_031",
+      "type": "single",
+      "question": "73 - 43 = ？",
+      "options": {
+        "A": "39",
+        "B": "42",
+        "C": "30",
+        "D": "34"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "73 - 43 = 30。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_032",
+      "type": "single",
+      "question": "100 - 10 = ？",
+      "options": {
+        "A": "85",
+        "B": "81",
+        "C": "90",
+        "D": "97"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "100 - 10 = 90。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_033",
+      "type": "single",
+      "question": "58 - 29 = ？",
+      "options": {
+        "A": "29",
+        "B": "32",
+        "C": "17",
+        "D": "27"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "58 - 29 = 29。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_034",
+      "type": "single",
+      "question": "83 - 25 = ？",
+      "options": {
+        "A": "53",
+        "B": "69",
+        "C": "63",
+        "D": "58"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "83 - 25 = 58。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_035",
+      "type": "single",
+      "question": "90 - 85 = ？",
+      "options": {
+        "A": "9",
+        "B": "5",
+        "C": "14",
+        "D": "7"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "90 - 85 = 5。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_036",
+      "type": "single",
+      "question": "2 - 0 = ？",
+      "options": {
+        "A": "0",
+        "B": "6",
+        "C": "13",
+        "D": "2"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "2 - 0 = 2。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_037",
+      "type": "single",
+      "question": "48 - 25 = ？",
+      "options": {
+        "A": "16",
+        "B": "23",
+        "C": "26",
+        "D": "33"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "48 - 25 = 23。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_038",
+      "type": "single",
+      "question": "71 - 11 = ？",
+      "options": {
+        "A": "59",
+        "B": "67",
+        "C": "52",
+        "D": "60"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "71 - 11 = 60。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_039",
+      "type": "single",
+      "question": "45 - 0 = ？",
+      "options": {
+        "A": "45",
+        "B": "36",
+        "C": "49",
+        "D": "37"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "45 - 0 = 45。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_040",
+      "type": "single",
+      "question": "70 - 11 = ？",
+      "options": {
+        "A": "57",
+        "B": "66",
+        "C": "47",
+        "D": "59"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "70 - 11 = 59。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_041",
+      "type": "single",
+      "question": "70 - 63 = ？",
+      "options": {
+        "A": "12",
+        "B": "6",
+        "C": "17",
+        "D": "7"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "70 - 63 = 7。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_042",
+      "type": "single",
+      "question": "56 - 2 = ？",
+      "options": {
+        "A": "54",
+        "B": "62",
+        "C": "44",
+        "D": "65"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "56 - 2 = 54。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_043",
+      "type": "single",
+      "question": "0 - 0 = ？",
+      "options": {
+        "A": "1",
+        "B": "9",
+        "C": "0",
+        "D": "12"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "0 - 0 = 0。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_044",
+      "type": "single",
+      "question": "82 - 76 = ？",
+      "options": {
+        "A": "12",
+        "B": "6",
+        "C": "16",
+        "D": "17"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "82 - 76 = 6。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_045",
+      "type": "single",
+      "question": "26 - 21 = ？",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "10",
+        "D": "6"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "26 - 21 = 5。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_046",
+      "type": "single",
+      "question": "32 - 14 = ？",
+      "options": {
+        "A": "30",
+        "B": "18",
+        "C": "9",
+        "D": "26"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "32 - 14 = 18。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_047",
+      "type": "single",
+      "question": "44 - 11 = ？",
+      "options": {
+        "A": "24",
+        "B": "33",
+        "C": "43",
+        "D": "41"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "44 - 11 = 33。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_048",
+      "type": "single",
+      "question": "62 - 0 = ？",
+      "options": {
+        "A": "52",
+        "B": "62",
+        "C": "69",
+        "D": "72"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "62 - 0 = 62。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_049",
+      "type": "single",
+      "question": "34 - 28 = ？",
+      "options": {
+        "A": "8",
+        "B": "1",
+        "C": "6",
+        "D": "12"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "34 - 28 = 6。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_050",
+      "type": "single",
+      "question": "48 - 27 = ？",
+      "options": {
+        "A": "20",
+        "B": "17",
+        "C": "21",
+        "D": "9"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "48 - 27 = 21。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_051",
+      "type": "single",
+      "question": "10 × 2 = ？",
+      "options": {
+        "A": "30",
+        "B": "14",
+        "C": "13",
+        "D": "20"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "10 × 2 = 20。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_052",
+      "type": "single",
+      "question": "5 × 12 = ？",
+      "options": {
+        "A": "55",
+        "B": "62",
+        "C": "71",
+        "D": "60"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "5 × 12 = 60。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_053",
+      "type": "single",
+      "question": "5 × 6 = ？",
+      "options": {
+        "A": "30",
+        "B": "25",
+        "C": "26",
+        "D": "39"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "5 × 6 = 30。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_054",
+      "type": "single",
+      "question": "2 × 0 = ？",
+      "options": {
+        "A": "0",
+        "B": "4",
+        "C": "2",
+        "D": "12"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "2 × 0 = 0。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_055",
+      "type": "single",
+      "question": "8 × 4 = ？",
+      "options": {
+        "A": "32",
+        "B": "31",
+        "C": "21",
+        "D": "34"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "8 × 4 = 32。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_056",
+      "type": "single",
+      "question": "4 × 4 = ？",
+      "options": {
+        "A": "26",
+        "B": "24",
+        "C": "19",
+        "D": "16"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "4 × 4 = 16。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_057",
+      "type": "single",
+      "question": "0 × 11 = ？",
+      "options": {
+        "A": "2",
+        "B": "0",
+        "C": "3",
+        "D": "6"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "0 × 11 = 0。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_058",
+      "type": "single",
+      "question": "4 × 9 = ？",
+      "options": {
+        "A": "42",
+        "B": "38",
+        "C": "36",
+        "D": "35"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "4 × 9 = 36。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_059",
+      "type": "single",
+      "question": "0 × 10 = ？",
+      "options": {
+        "A": "3",
+        "B": "11",
+        "C": "0",
+        "D": "6"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "0 × 10 = 0。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_060",
+      "type": "single",
+      "question": "3 × 0 = ？",
+      "options": {
+        "A": "11",
+        "B": "4",
+        "C": "0",
+        "D": "8"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "3 × 0 = 0。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_061",
+      "type": "single",
+      "question": "9 × 0 = ？",
+      "options": {
+        "A": "0",
+        "B": "4",
+        "C": "11",
+        "D": "5"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "9 × 0 = 0。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_062",
+      "type": "single",
+      "question": "10 × 9 = ？",
+      "options": {
+        "A": "91",
+        "B": "85",
+        "C": "90",
+        "D": "78"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "10 × 9 = 90。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_063",
+      "type": "single",
+      "question": "3 × 10 = ？",
+      "options": {
+        "A": "36",
+        "B": "23",
+        "C": "22",
+        "D": "30"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "3 × 10 = 30。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_064",
+      "type": "single",
+      "question": "10 × 7 = ？",
+      "options": {
+        "A": "70",
+        "B": "76",
+        "C": "62",
+        "D": "65"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "10 × 7 = 70。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_065",
+      "type": "single",
+      "question": "7 × 9 = ？",
+      "options": {
+        "A": "63",
+        "B": "54",
+        "C": "69",
+        "D": "62"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "7 × 9 = 63。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_066",
+      "type": "single",
+      "question": "3 × 6 = ？",
+      "options": {
+        "A": "12",
+        "B": "16",
+        "C": "18",
+        "D": "9"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "3 × 6 = 18。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_067",
+      "type": "single",
+      "question": "7 × 7 = ？",
+      "options": {
+        "A": "40",
+        "B": "37",
+        "C": "49",
+        "D": "38"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "7 × 7 = 49。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_068",
+      "type": "single",
+      "question": "1 × 12 = ？",
+      "options": {
+        "A": "22",
+        "B": "12",
+        "C": "8",
+        "D": "18"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "1 × 12 = 12。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_069",
+      "type": "single",
+      "question": "7 × 11 = ？",
+      "options": {
+        "A": "83",
+        "B": "80",
+        "C": "77",
+        "D": "76"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "7 × 11 = 77。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_070",
+      "type": "single",
+      "question": "9 × 6 = ？",
+      "options": {
+        "A": "51",
+        "B": "50",
+        "C": "47",
+        "D": "54"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "9 × 6 = 54。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_071",
+      "type": "single",
+      "question": "1 × 6 = ？",
+      "options": {
+        "A": "6",
+        "B": "2",
+        "C": "0",
+        "D": "16"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "1 × 6 = 6。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_072",
+      "type": "single",
+      "question": "0 × 4 = ？",
+      "options": {
+        "A": "6",
+        "B": "5",
+        "C": "0",
+        "D": "8"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "0 × 4 = 0。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_073",
+      "type": "single",
+      "question": "8 × 7 = ？",
+      "options": {
+        "A": "66",
+        "B": "56",
+        "C": "55",
+        "D": "57"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "8 × 7 = 56。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_074",
+      "type": "single",
+      "question": "3 × 2 = ？",
+      "options": {
+        "A": "6",
+        "B": "0",
+        "C": "11",
+        "D": "18"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "3 × 2 = 6。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_075",
+      "type": "single",
+      "question": "4 × 3 = ？",
+      "options": {
+        "A": "11",
+        "B": "3",
+        "C": "6",
+        "D": "12"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "4 × 3 = 12。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_076",
+      "type": "single",
+      "question": "88 ÷ 8 = ？",
+      "options": {
+        "A": "15",
+        "B": "11",
+        "C": "12",
+        "D": "2"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "88 ÷ 8 = 11，因为 8 × 11 = 88。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_077",
+      "type": "single",
+      "question": "72 ÷ 6 = ？",
+      "options": {
+        "A": "24",
+        "B": "12",
+        "C": "2",
+        "D": "22"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "72 ÷ 6 = 12，因为 6 × 12 = 72。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_078",
+      "type": "single",
+      "question": "11 ÷ 11 = ？",
+      "options": {
+        "A": "12",
+        "B": "9",
+        "C": "3",
+        "D": "1"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "11 ÷ 11 = 1，因为 11 × 1 = 11。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_079",
+      "type": "single",
+      "question": "40 ÷ 4 = ？",
+      "options": {
+        "A": "10",
+        "B": "16",
+        "C": "22",
+        "D": "3"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "40 ÷ 4 = 10，因为 4 × 10 = 40。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_080",
+      "type": "single",
+      "question": "16 ÷ 4 = ？",
+      "options": {
+        "A": "4",
+        "B": "10",
+        "C": "13",
+        "D": "2"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "16 ÷ 4 = 4，因为 4 × 4 = 16。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_081",
+      "type": "single",
+      "question": "0 ÷ 4 = ？",
+      "options": {
+        "A": "6",
+        "B": "0",
+        "C": "8",
+        "D": "10"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "0 ÷ 4 = 0，因为 4 × 0 = 0。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_082",
+      "type": "single",
+      "question": "35 ÷ 7 = ？",
+      "options": {
+        "A": "1",
+        "B": "7",
+        "C": "5",
+        "D": "9"
+      },
+      "answer": [
+        "C"
+      ],
+      "explanation": "35 ÷ 7 = 5，因为 7 × 5 = 35。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_083",
+      "type": "single",
+      "question": "9 ÷ 3 = ？",
+      "options": {
+        "A": "3",
+        "B": "6",
+        "C": "9",
+        "D": "7"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "9 ÷ 3 = 3，因为 3 × 3 = 9。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_084",
+      "type": "single",
+      "question": "33 ÷ 3 = ？",
+      "options": {
+        "A": "11",
+        "B": "14",
+        "C": "2",
+        "D": "4"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "33 ÷ 3 = 11，因为 3 × 11 = 33。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_085",
+      "type": "single",
+      "question": "21 ÷ 3 = ？",
+      "options": {
+        "A": "7",
+        "B": "11",
+        "C": "4",
+        "D": "8"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "21 ÷ 3 = 7，因为 3 × 7 = 21。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_086",
+      "type": "single",
+      "question": "42 ÷ 6 = ？",
+      "options": {
+        "A": "16",
+        "B": "11",
+        "C": "3",
+        "D": "7"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "42 ÷ 6 = 7，因为 6 × 7 = 42。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_087",
+      "type": "single",
+      "question": "80 ÷ 8 = ？",
+      "options": {
+        "A": "21",
+        "B": "10",
+        "C": "17",
+        "D": "9"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "80 ÷ 8 = 10，因为 8 × 10 = 80。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_088",
+      "type": "single",
+      "question": "25 ÷ 5 = ？",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "3",
+        "D": "5"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "25 ÷ 5 = 5，因为 5 × 5 = 25。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_089",
+      "type": "single",
+      "question": "90 ÷ 9 = ？",
+      "options": {
+        "A": "11",
+        "B": "2",
+        "C": "9",
+        "D": "10"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "90 ÷ 9 = 10，因为 9 × 10 = 90。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_090",
+      "type": "single",
+      "question": "56 ÷ 8 = ？",
+      "options": {
+        "A": "0",
+        "B": "7",
+        "C": "1",
+        "D": "5"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "56 ÷ 8 = 7，因为 8 × 7 = 56。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_091",
+      "type": "single",
+      "question": "9 ÷ 9 = ？",
+      "options": {
+        "A": "7",
+        "B": "1",
+        "C": "8",
+        "D": "6"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "9 ÷ 9 = 1，因为 9 × 1 = 9。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_092",
+      "type": "single",
+      "question": "4 ÷ 4 = ？",
+      "options": {
+        "A": "8",
+        "B": "1",
+        "C": "3",
+        "D": "9"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "4 ÷ 4 = 1，因为 4 × 1 = 4。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_093",
+      "type": "single",
+      "question": "6 ÷ 3 = ？",
+      "options": {
+        "A": "12",
+        "B": "2",
+        "C": "9",
+        "D": "13"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "6 ÷ 3 = 2，因为 3 × 2 = 6。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_094",
+      "type": "single",
+      "question": "20 ÷ 4 = ？",
+      "options": {
+        "A": "1",
+        "B": "5",
+        "C": "13",
+        "D": "17"
+      },
+      "answer": [
+        "B"
+      ],
+      "explanation": "20 ÷ 4 = 5，因为 4 × 5 = 20。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_095",
+      "type": "single",
+      "question": "50 ÷ 5 = ？",
+      "options": {
+        "A": "14",
+        "B": "12",
+        "C": "16",
+        "D": "10"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "50 ÷ 5 = 10，因为 5 × 10 = 50。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_096",
+      "type": "single",
+      "question": "88 ÷ 11 = ？",
+      "options": {
+        "A": "8",
+        "B": "18",
+        "C": "15",
+        "D": "6"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "88 ÷ 11 = 8，因为 11 × 8 = 88。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_097",
+      "type": "single",
+      "question": "5 ÷ 1 = ？",
+      "options": {
+        "A": "5",
+        "B": "12",
+        "C": "4",
+        "D": "11"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "5 ÷ 1 = 5，因为 1 × 5 = 5。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_098",
+      "type": "single",
+      "question": "36 ÷ 4 = ？",
+      "options": {
+        "A": "20",
+        "B": "3",
+        "C": "4",
+        "D": "9"
+      },
+      "answer": [
+        "D"
+      ],
+      "explanation": "36 ÷ 4 = 9，因为 4 × 9 = 36。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_099",
+      "type": "single",
+      "question": "0 ÷ 11 = ？",
+      "options": {
+        "A": "0",
+        "B": "7",
+        "C": "10",
+        "D": "4"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "0 ÷ 11 = 0，因为 11 × 0 = 0。",
+      "source": "100以内加减乘除练习"
+    },
+    {
+      "id": "MATH_100",
+      "type": "single",
+      "question": "0 ÷ 5 = ？",
+      "options": {
+        "A": "0",
+        "B": "7",
+        "C": "12",
+        "D": "3"
+      },
+      "answer": [
+        "A"
+      ],
+      "explanation": "0 ÷ 5 = 0，因为 5 × 0 = 0。",
+      "source": "100以内加减乘除练习"
+    }
+  ]
+}
