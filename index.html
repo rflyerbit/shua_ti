@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="在线刷题工具">
+  <meta name="theme-color" content="#1f6feb">
+  <title>在线刷题</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <noscript>本网站需要启用 JavaScript 才能使用。</noscript>
+
+  <header class="topbar">
+    <div>
+      <h1>在线刷题</h1>
+      <p>题库切换 · 错题本 · 搜索 · 统计 · 限时练习</p>
+    </div>
+    <button id="themeButton" class="secondary" type="button">切换深色模式</button>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar card">
+      <section>
+        <h2>题库与模式</h2>
+        <label for="bankSelect">当前题库</label>
+        <select id="bankSelect"></select>
+
+        <div class="button-grid">
+          <button id="practiceModeButton" class="active" type="button">全部题目</button>
+          <button id="wrongModeButton" type="button">错题本</button>
+        </div>
+      </section>
+
+      <section>
+        <h2>查找题目</h2>
+        <label for="searchInput">搜索题干、选项、来源或解析</label>
+        <div class="search-row">
+          <input
+            id="searchInput"
+            type="search"
+            placeholder="输入关键词，例如：社会主义"
+            autocomplete="off"
+          >
+          <button id="searchButton" type="button">搜索</button>
+        </div>
+        <div class="button-grid">
+          <button id="clearSearchButton" class="secondary" type="button">清除结果</button>
+          <button id="randomButton" class="secondary" type="button">随机一题</button>
+        </div>
+        <div id="searchResults" class="search-results hidden" aria-live="polite"></div>
+      </section>
+
+      <section>
+        <h2>限时练习</h2>
+        <div class="button-grid">
+          <button id="exam35Button" type="button">45 分钟</button>
+          <button id="exam60Button" type="button">60 秒</button>
+        </div>
+        <button id="stopExamButton" class="danger full" type="button">停止计时</button>
+      </section>
+
+      <section>
+        <h2>数据管理</h2>
+        <label class="file-button">
+          导入自定义 JSON 题库
+          <input id="bankFileInput" type="file" accept=".json,application/json">
+        </label>
+        <button id="exportProgressButton" class="secondary full" type="button">导出学习记录</button>
+        <label class="file-button secondary-file">
+          导入学习记录
+          <input id="progressFileInput" type="file" accept=".json,application/json">
+        </label>
+        <button id="resetProgressButton" class="danger full" type="button">清空当前题库记录</button>
+      </section>
+    </aside>
+
+    <section class="content">
+      <div class="stats card" aria-label="学习统计">
+        <div><span>题目</span><strong id="totalStat">0</strong></div>
+        <div><span>已答</span><strong id="answeredStat">0</strong></div>
+        <div><span>正确</span><strong id="correctStat">0</strong></div>
+        <div><span>正确率</span><strong id="accuracyStat">0%</strong></div>
+        <div><span>错题</span><strong id="wrongStat">0</strong></div>
+        <div><span>计时</span><strong id="timerStat">--</strong></div>
+      </div>
+
+      <article class="question-card card">
+        <div class="question-meta">
+          <span id="modeBadge" class="badge">全部题目</span>
+          <span id="typeBadge" class="badge muted">单选题</span>
+          <span id="progressText">第 0 / 0 题</span>
+        </div>
+
+        <h2 id="questionText">正在加载题库……</h2>
+        <div id="sourceText" class="source"></div>
+        <form id="optionsForm" class="options"></form>
+
+        <div id="resultPanel" class="result hidden" aria-live="polite"></div>
+
+        <div class="question-actions">
+          <button id="previousButton" class="secondary" type="button">上一题</button>
+          <button id="submitButton" type="button">提交答案</button>
+          <button id="nextButton" class="secondary" type="button">下一题</button>
+          <button id="toggleWrongButton" class="warning" type="button">加入错题本</button>
+        </div>
+      </article>
+
+      <p id="statusMessage" class="status" aria-live="polite"></p>
+    </section>
+  </main>
+
+  <footer>
+    数据仅保存在当前浏览器；请定期导出学习记录备份。
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
